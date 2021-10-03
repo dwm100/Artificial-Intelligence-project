@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633280920 source:c:\users\dylan\onedrive\documents\project1artificialint\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<queue>
+
